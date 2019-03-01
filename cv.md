@@ -1,4 +1,4 @@
-#Resume
+# Resume
 1. Aliaksandr, Liakhovets
 2. email: enerjaizzzer@gmail.com, phone: 8(044)563-00-05
 3. Always attracted to the study of programming. I tried to do something myself, but I didn’t have enough time, then I had money - in general, life led me in a completely different way. Now everything has stabilized and I want to return to the study of what my soul and mind have led me since childhood. I work hard at learning, for me it’s not just courses, it’s a goal in life.
