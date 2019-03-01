@@ -1,5 +1,5 @@
 # Resume
-## 1. **Aliaksandr, Liakhovets**
+1. **Aliaksandr, Liakhovets**
 2. **email:** enerjaizzzer@gmail.com, **phone:** 8(044)563-00-05
 3. Always attracted to the study of programming. I tried to do something myself, but I didn’t have enough time, then I had money - in general, life led me in a completely different way. Now everything has stabilized and I want to return to the study of what my soul and mind have led me since childhood. I work hard at learning, for me it’s not just courses, it’s a goal in life.
 4. I know little at the proper level. However, I can say that I know for sure HTML and CSS. Verstal sites about 5 years ago. Know a little WordPress and Joomla. Read a book about JavaScript. In general, I know everywhere a little bit. I want to deepen my knowledge
