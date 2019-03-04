@@ -6,7 +6,7 @@
 body {
     position: relative;
     display: grid;
-    grid-template-rows: 250px 700px 40px;
+    grid-template-rows: 250px 640px 40px;
     text-align: justify;
     width: 1024px;
     height: 100%;
