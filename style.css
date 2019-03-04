@@ -31,13 +31,13 @@ header h1 {
     vertical-align: middle;
     padding-left: 40px;
     font-size: 50px;
-    text-transform: uppercase;
 }
 
 main h2 {
     text-align: left;
     padding-left: 50px;
     background-color: rgb(153, 153, 253);
+    text-transform: uppercase;
 }
 
 main p {
